@@ -1,0 +1,1 @@
+ABCDEFa a simple text file for testing purpose.
